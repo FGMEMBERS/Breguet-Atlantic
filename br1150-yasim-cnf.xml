@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+************************************************************************
+Fairchild br1150
+December 2010 BARANGER Emmanuel
+************************************************************************
+-->
+
+<PropertyList include="br1150-base.xml">
+
+  <sim>
+
+    <description>Breguet Atlantic (YASim)</description>
+    <flight-model>yasim</flight-model>
+    <aero>br1150-yasim</aero>
+
+  </sim>
+    
+</PropertyList>
